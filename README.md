@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abeinevincent(Abeinemukama Vicent), a Full Stack Web and mobile Developer, Designer and Content Creator. I spend most of the time building reusable component libraries and writing articles about programming.
+- 👋 Hi, I’m @Abeinevincent(Abeinemukama Vicent), a Full Stack Web and mobile Engineer, Designer and Content Creator. I spend most of the time building reusable component libraries and writing articles about programming.
 - 👀 I’m currently working at Digital Minds, Mbarara-Uganda 
 - 🌱 I’m currently looking for outstanding ideas for writing new articles
 - 💞️ I’m looking to collaborate on both small scale and enterprise level projects
